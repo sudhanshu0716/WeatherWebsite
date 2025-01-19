@@ -11,4 +11,4 @@ Welcome to the Live Weather Website! This project is a simple and intuitive web 
 
 - **HTML**: Structure of the website.
 - **CSS**: Styling of the website.
-- **JavaScript**: Functionality and interactivity.
+- **JavaScript**: Functionality and interactivity...
